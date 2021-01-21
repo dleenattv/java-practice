@@ -19,7 +19,7 @@ public class NumberGame {
                     } else {
                         System.out.println("더 큰 수입니다.");
                     }
-                } 
+                }
                 input = numberChecker.input();
             }
         }
