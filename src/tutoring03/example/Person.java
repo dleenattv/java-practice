@@ -1,0 +1,16 @@
+package tutoring03.example;
+
+public class Person {
+
+    private int age;
+    private String name;
+
+    public Person(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+}
